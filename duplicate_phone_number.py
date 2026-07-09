@@ -1,12 +1,23 @@
 phone_numbers = []
+
 phone_1=int(input("Enter the 1st phone number: "))
+
 phone_2=int(input("Enter the 2nd phone number: "))
+
 phone_3=int(input("Enter the 3rd phone number: "))
+
 phone_4=int(input("Enter the 4th phone number: "))
+
 phone_numbers.append(phone_1)
+
 phone_numbers.append(phone_2)
+
 phone_numbers.append(phone_3)
+
 phone_numbers.append(phone_4)
+
 print("The phone numbers are: ", phone_numbers)
+
 unique_numbers=set(phone_numbers)
+
 print("The unique numbers are after removing duplicates are: ",unique_numbers)

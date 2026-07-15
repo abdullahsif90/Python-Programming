@@ -10,11 +10,11 @@ def calculate_average(marks):
     total =0
     for mark in marks:
         total= total + mark
-        average = total / len(marks)
-    return average
-    
-average= calculate_average(marks)
+    average = total / len(marks)
+    return average 
 
+average= calculate_average(marks)
+print("Average is: ", average)
 if average >= 80:
     print("Excellent")
 elif average >=60:

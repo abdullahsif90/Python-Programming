@@ -1,0 +1,3 @@
+today i learned about machine learning concepts
+now i am moving to deep learning
+i am learning cloud computing

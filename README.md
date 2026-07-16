@@ -41,13 +41,6 @@ Programs demonstrating object-oriented programming concepts, including:
 - Abstraction
 - Exception Handling
 
----
-
-### 📊 Data Structures & Algorithms (DSA)
-
-This section contains implementations of fundamental data structures and algorithms using Python, along with coding exercises to improve problem-solving and programming logic.
-
-Topics will continue expanding as I progress in my learning.
 
 ---
 
@@ -77,7 +70,6 @@ Practical Python projects created to apply programming concepts, strengthen deve
 
 - Python Programming
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
 - Problem Solving
 - Programming Logic
 - Automation

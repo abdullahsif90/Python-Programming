@@ -1,0 +1,6 @@
+egg
+bread
+milk
+egg
+bread
+butter
